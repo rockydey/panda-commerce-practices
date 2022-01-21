@@ -1,0 +1,15 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.slider-backgound{
+    background-color: #FEEAE9;
+}
+.special-button-css{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+    padding: 14px 25px;
+    color: white;
+}
